@@ -1,0 +1,1 @@
+<?php  date_default_timezone_set('America/Mexico_City');$conecta =  mysqli_connect('localhost','eddesisc_sofia','M4r143ol5p2y.','eddesisc_sofia');if (!mysqli_set_charset($conecta,'utf8')){die('No pudo conectarse: ' . mysqli_connect_error());}?>	
